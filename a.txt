@@ -8,4 +8,4 @@ hello wangshuo! hello git
 hello wangshuo! hello git
 hello wangshuo! hello git
 hello wangshuo! hello git  master test
-hello wangshuo! hello git
+hello wangshuo! hello git  hot-fox test
